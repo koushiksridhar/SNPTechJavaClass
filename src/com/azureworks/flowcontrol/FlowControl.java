@@ -13,7 +13,11 @@ public class FlowControl {
         for (int i = 0; i<2; i++){
             convertTemperature();
         }
+<<<<<<< HEAD
 
+=======
+        
+>>>>>>> ff03ab312706766309af701a5d4b77fe2a769ccf
     }
 
 
