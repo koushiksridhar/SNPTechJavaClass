@@ -6,18 +6,13 @@ public class FlowControl {
     public static void main(String[] args) {
 
         //Here we are going to use a for loop
-
         //We are going to keep looping, and performing the actions within this loop until the variable
             // i reaches the value of 2
 
         for (int i = 0; i<2; i++){
             convertTemperature();
         }
-<<<<<<< HEAD
 
-=======
-        
->>>>>>> ff03ab312706766309af701a5d4b77fe2a769ccf
     }
 
 
